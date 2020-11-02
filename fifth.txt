@@ -1,1 +1,2 @@
 working on new file
+git reset
