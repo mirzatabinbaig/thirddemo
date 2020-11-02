@@ -1,2 +1,2 @@
 new changes in third file
-
+git reset change
